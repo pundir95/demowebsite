@@ -1,4 +1,4 @@
-let a=1011;
-let b=1211;
-let c=a+b;
+let a=101;
+let b=121;
+let c=a+bvvv;
 console.log(c)
